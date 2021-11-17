@@ -22,7 +22,7 @@ from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 from upsetplot import UpSet, from_contents
 from pybedtools import BedTool
-os.chdir("/home/labo/datuak/mirna_atlas/")
+os.chdir("/home/mydir")
 
 ##############################################################################
 ## Mature sequence level
