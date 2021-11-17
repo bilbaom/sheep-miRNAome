@@ -15,7 +15,7 @@ import matplotlib.colors as mcolors
 from matplotlib import rcParams
 import matplotlib
 rcParams.update({'figure.autolayout': True})
-os.chdir("/home/labo/datuak/mirna_atlas/")
+os.chdir("/")
 
 ### Mean expression by miRNA type (novel, conserved, 2284 family)
 # Open tissue info
