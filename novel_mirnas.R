@@ -170,7 +170,7 @@ for (i in 1:nrow(clustered_filtered_novel_mirnas)) {
 ##########################################################################################################3
 
 
-# novel mature and premiRNA are written into two fasta files and are joined withe the mature and premiRNAs of mirbase
+# novel mature and premiRNA are written into two fasta files and are joined with the mature and premiRNAs of mirbase
    
 clustered_filtered_novel_mirnas["premirna_names"][clustered_filtered_novel_mirnas["premirna_names"] == "-"] <- "_"
 
