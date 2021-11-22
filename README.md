@@ -6,9 +6,9 @@ This repository contains the scripts used in the manuscript: [under revision]
 
 * [mirdeep2-quantifier.sh](/mirdeep2-quantifier.sh): Code used to run the miRDeep2 quantifier algorithm.
 
-* [Statistic analysis.R](/Statistic analysis.R): Code used for the analysis of miRNA expression and tissue specificity.
+* [Statistic analysis.R](/code.R): Code used for the analysis of miRNA expression and tissue specificity.
 
-* [novel_mirnas.R](/code2.R): Code used for  
+* [novel_mirnas.R](/code2.R): Code used to rename correctly the filtered miRNAs and to prepare the mature and pre-miRNA fastas for quantification.  
 
 * [mirna_blast.py](/mirna_blast.py): Code used for sequence conservation analysis of novel miRNAs, selection of unique miRNA sequences for quantification and search of clusters in genome.
 
