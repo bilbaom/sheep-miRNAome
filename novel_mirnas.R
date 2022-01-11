@@ -211,6 +211,5 @@ system("cat Qmature.fa Qstar.fa > Qsmmirna.fa")
 
 system("cat Qsmmirna.fa sheep_mature_mirna.fa > Qallmirna.fa")
 
-system("cat Qpremirna.fa sheep_premirna.fa > Qallpremirna.fa")                           
-
+system("cat Qpremirna.fa sheep_premirna.fa > Qallpremirna.fa")
                                     
