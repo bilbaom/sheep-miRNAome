@@ -6,7 +6,7 @@ This repository contains the scripts used in the manuscript: [under revision]
 
 * [mirdeep2-quantifier.sh](/mirdeep2-quantifier.sh): Code used to run the miRDeep2 quantifier algorithm.
 
-* [Statistic_analysis.R](/Statistic analysis.R): Code used for the analysis of miRNA expression and tissue specificity.
+* [Statistic_analysis.R](/Statistic_analysis.R): Code used for the analysis of miRNA expression and tissue specificity.
 
 * [novel_mirnas.R](/novel_mirnas.R): Code used to give correct "3p" and "5p" names to the filtered miRNAs and to prepare the mature and pre-miRNA fasta files for quantification.  
 
