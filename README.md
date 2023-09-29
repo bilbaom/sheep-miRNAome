@@ -1,5 +1,5 @@
 # sheep-miRNAome
-This repository contains the scripts used in the manuscript: [under revision]
+This repository contains the scripts used in the manuscript: "The sheep miRNAome: Characterization and distribution of miRNAs in 21 tissues" https://doi.org/10.1016/j.gene.2022.146998
 
 ## Scripts
 * [mirdeep2-core-command.sh](/mirdeep2-core-command.sh): Code used to run the preprocessing of the samples, genome mapping and the core miRDeep2 algorithm.
